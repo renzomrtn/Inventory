@@ -1,2 +1,2 @@
 # Inventory
-Java program for recording a business' service of the day
+Java program for recording a business' transaction / services of the day
