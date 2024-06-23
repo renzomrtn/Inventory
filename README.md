@@ -1,2 +1,5 @@
 # Inventory
-Java program for recording a business' transaction / services of the day
+
+The raw code. You can convert it to an exe file yourself.
+
+This program makes a text file of the input.
